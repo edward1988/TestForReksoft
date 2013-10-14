@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test for Reksoft</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+<string name="network_unavailable">Нет интернет-соединения! Проверьте ваше подключение и поробуйте еще раз.</string>
+<string name="network_unavailable_map">Для отображения карты необходимо активное интернет-соединение!</string>
+<string name="refresh">Обновить</string>
+
+
+
+
+</resources>
